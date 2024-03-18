@@ -23,7 +23,7 @@ a:visited {
 }
 
 a:hover, a:focus, a:active {
-    color: green;#003368
+    color: green;#ff5a00
 }
 
 a:focus {
@@ -33,6 +33,10 @@ a:focus {
 a:hover, a:active {
     outline: 0;
     list-style: none;
+}
+h1{
+    color: maroon;
+    font-weight: bold;
 }
 
 /*--------------------------------------------------------------
@@ -225,7 +229,7 @@ a:hover, a:active {
     color: green;
 }
 
-#003368
+#ff5a00
 
 /*
 # Menu SHopping Cart
@@ -312,7 +316,7 @@ a:hover, a:active {
 }
 
 .hero-slider .swiper-pagination-bullet-active {
-    color: darkgreen;
+    color: #ff5a00;
 }
 
 .hero-slider .swiper-button-next,
@@ -327,7 +331,7 @@ a:hover, a:active {
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
     background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
     background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='darkgreen', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     transition: all .35s;
 }
 
@@ -436,7 +440,7 @@ a:hover, a:active {
 }
 
 .btn.orange-border {
-    border-color: #003368; ff5a00
+    border-color: #ff5a00;
 }
 
 .btn.orange-border:hover,
@@ -448,7 +452,7 @@ a:hover, a:active {
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
     background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
     background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003368', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     color: #fff;
 }
 
@@ -482,7 +486,7 @@ a:hover, a:active {
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
     background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
     background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003368', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     color: #fff;
 }
 
@@ -540,7 +544,7 @@ ul.tabs-nav .tab-nav.active {
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
     background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
     background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003368', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     color: #fff;
 }
 
@@ -650,7 +654,7 @@ ul.tabs-nav .tab-nav.active {
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
     background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
     background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003368', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     color: #fff;
 }
 
@@ -737,7 +741,7 @@ ul.tabs-nav .tab-nav.active {
     font-weight: 500;
     line-height: 1;
     text-align: center;
-    background: #003368;
+    background: #ff5a00;
     color: #fff;
 }
 
@@ -789,7 +793,7 @@ ul.tabs-nav .tab-nav.active {
     width: 64px;
     height: 4px;
     border-radius: 2px;
-    background: #003368;
+    background: #ff5a00;
 }
 
 .welcome-content .entry-content {
@@ -831,7 +835,7 @@ ul.tabs-nav .tab-nav.active {
     width: 64px;
     height: 4px;
     border-radius: 2px;
-    background: #003368;
+    background: #ff5a00;
 }
 
 @media screen and (max-width: 992px) {
@@ -902,7 +906,7 @@ ul.tabs-nav .tab-nav.active {
     display: block;
     margin-top: 10px;
     font-size: 14px;
-    color: #003368;
+    color: #ff5a00;
     text-decoration: none;
 }
 
@@ -1054,7 +1058,7 @@ ul.tabs-nav .tab-nav.active {
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
     background: -ms-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ie10+ */
     background: linear-gradient(270deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003368', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5a00', endColorstr='#ff3600',GradientType=1 ); /* ie6-9 */
     transition: all .35s;
 }
 
@@ -1156,7 +1160,7 @@ ul.tabs-nav .tab-nav.active {
     width: 64px;
     height: 4px;
     border-radius: 2px;
-    background: #003368;
+    background: #ff5a00;
 }
 
 .about-page .page-header {
@@ -1221,7 +1225,7 @@ ul.tabs-nav .tab-nav.active {
     font-weight: 500;
     font-style: italic;
     line-height: 1;
-    color: #003368;
+    color: #ff5a00;
 }
 
 .testimonial-cont .entry-content {
@@ -1244,7 +1248,7 @@ ul.tabs-nav .tab-nav.active {
     width: 64px;
     height: 4px;
     border-radius: 2px;
-    background: #003368;
+    background: #ff5a00;
 }
 
 .testimonial-cont .entry-footer img {
@@ -1261,7 +1265,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .testimonial-cont .entry-footer h4 span {
-    color: #003368;
+    color: #ff5a00;
 }
 
 .help-us {
@@ -1456,7 +1460,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .donation-form .radio-label > input:checked + .donate-amount {
-    border-color: #003368;
+    border-color: #ff5a00;
 }
 
 .donation-form .payment-type input[type="radio"] {
@@ -1572,7 +1576,7 @@ ul.tabs-nav .tab-nav.active {
     margin-top: 10px;
     font-size: 14px;
     font-weight: 500;
-    color: #003368;
+    color: #ff5a00;
 }
 
 /*--------------------------------------------------------------
@@ -1621,7 +1625,7 @@ ul.tabs-nav .tab-nav.active {
 .news-content .posted-date {
     font-size: 14px;
     font-weight: 500;
-    color: #003368;
+    color: #ff5a00;
 }
 
 .post-metas {
@@ -1716,7 +1720,7 @@ ul.tabs-nav .tab-nav.active {
     margin-left: -5px;
     font-size: 14px;
     font-weight: 500;
-    background: #003368;
+    background: #ff5a00;
     color: #fff;
     cursor: pointer;
     outline: none;
@@ -1768,7 +1772,7 @@ ul.tabs-nav .tab-nav.active {
 
 .popular-posts .posted-date {
     font-size: 12px;
-    color: #003368;
+    color: #ff5a00;
 }
 
 /*
@@ -1934,7 +1938,7 @@ ul.tabs-nav .tab-nav.active {
     width: 28px;
     margin-right: 10px;
     font-size: 18px;
-    color: #003368;
+    color: #ff5a00;
     text-align: center;
 }
 
@@ -2041,7 +2045,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .footer-widgets ul li a:hover {
-    color: #003368;
+    color: #ff5a00;
 }
 
 .foot-about p {
@@ -2069,7 +2073,7 @@ ul.tabs-nav .tab-nav.active {
 
 .foot-latest-news ul li .posted-date {
     font-size: 12px;
-    color: #003368;
+    color: #ff5a00;
 }
 
 .foot-contact ul li {
@@ -2083,7 +2087,7 @@ ul.tabs-nav .tab-nav.active {
     margin-right: 10px;
     font-size: 18px;
     text-align: center;
-    color: #003368;
+    color: #ff5a00;
 }
 
 .foot-contact ul li span {
@@ -2120,7 +2124,7 @@ ul.tabs-nav .tab-nav.active {
     font-size: 12px;
     line-height: 1;
     text-transform: uppercase;
-    background: #003368;
+    background: #ff5a00;
     color: #fff;
     cursor: pointer;
     outline: none;
