@@ -27,7 +27,7 @@
 
 /**** color ****/
 #bg1{
-    background: #0050a1;
+    background: #012e67;
 }
 /*** Spinner ***/
 #spinner {
@@ -53,7 +53,7 @@
 .btn.btn-primary,
 .btn.btn-secondary {
     color: #FFFFFF;
-    background: #0050a1;
+    background: #012e67;
     border: none;
 }
 
@@ -124,7 +124,7 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #0050a1;
+    color: #012e67;
     font-weight: 500;
 }
 
@@ -217,8 +217,8 @@
 
 .header-carousel .owl-nav .owl-prev:hover,
 .header-carousel .owl-nav .owl-next:hover {
-    background: #0050a1;
-    border-color: #0050a1;
+    background: #012e67;
+    border-color: #012e67;
 }
 
 .header-carousel .owl-dots {
@@ -259,8 +259,10 @@
     border-color: var(--primary);
 }
 
+/*Contact us*/
+
 .page-header {
-    background: linear-gradient(rgba(53, 53, 53, .7), rgba(53, 53, 53, .7)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(53, 53, 53, .7), rgba(53, 53, 53, .7)), url(../img/contact.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -573,7 +575,7 @@
 
 /*** Footer ***/
 .footer {
-    background: #0050a1;
+    background: #012e67;
     
 }
 
